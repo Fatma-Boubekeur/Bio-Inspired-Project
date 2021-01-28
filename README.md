@@ -6,4 +6,4 @@
 **Il est composé de 100 fichiers, chaque fichier contient 75 variables et 325 clauses où chaque clause a une longueur égale à 3.**
 
 Exemple d'un fichier CNF
-<img src="Fichier CNF.png" width="35%" height="35%">
+<img src="Fichier-CNF.png" width="35%" height="35%">
