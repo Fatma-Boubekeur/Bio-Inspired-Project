@@ -8,3 +8,6 @@
 **Exemple d'un fichier CNF :**
 <img src="Fichier CNF.bmp" width="35%" height="35%" align="center">
 
+**Importation des données :**
+<img src="Fichier CNF.bmp" width="35%" height="35%" align="center">
+
