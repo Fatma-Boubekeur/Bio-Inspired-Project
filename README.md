@@ -6,4 +6,4 @@
 **Il est composé de 100 fichiers, chaque fichier contient 75 variables et 325 clauses où chaque clause a une longueur égale à 3.**
 
 
-<img  src="Fichier CNF.bmp" width="40%" height="40%">
+<img  src="Fichier CNF.bmp" width="30%" height="30%">
