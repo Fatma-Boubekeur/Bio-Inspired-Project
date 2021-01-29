@@ -21,7 +21,7 @@
 <br/>
 <br/>
 <br/>
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) **`Méthodes utilisées`**
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) **`Méthodes utilisées :`**
 
 - **Méthodes exactes (recherche aveugle)**
   - **La recherche en largeur d’abord (ou BFS, pour Breadth First Search)**
@@ -34,7 +34,7 @@
   - **Les algorithmes génétiques (GA, pour Genetic Algorithms)**
   - **L’algorithme de colonies de fourmis (ACS, pour Ant Colony System)**
   
-![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) **`But`**
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) **`But :`**
 
 **L'objectif du projet est de constater l’explosion combinatoire des méthodes exactes et de s’initier aux méthodes heuristiques et métaheuristiques qui présentent des
 approches incontournables pour la résolution des problèmes complexes.**
