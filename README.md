@@ -29,7 +29,7 @@
   - **L'algorithme de recherche A*** ***(avec le nombre de clauses satisfaites comme heuristique)***
 - **Méthodes métaheuristiques bio-inspirées**
   - **Les algorithmes génétiques (GA, pour Genetic Algorithms)**
-  - **L’algorithme de colonies de fourmis (ACS, pour Ant Colony System)****
+  - **L’algorithme de colonies de fourmis (ACS, pour Ant Colony System)**
   
 **`Rapport détaillé du projet "Implémentation d'un SOLVEUR 3-SAT"`**
 ***Cliquer sur l'image pour consulter le rapport :)***
