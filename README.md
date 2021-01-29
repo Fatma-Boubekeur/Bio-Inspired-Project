@@ -10,5 +10,5 @@
 <img src="Fichier-CNF.png" width="40%" height="40%" align="left"> **Le Fichier CNF de la figure correspond à la formule booléenne suivante : 
 (x69 ∨ ¬x63 ∨ ¬x22) ∧ (x58 ∨ ¬x41 ∨ x54)**
 
-<br\>
-<a href="Rapport.pdf" class="image fit"><img src="Page de garde.png" alt=""></a>
+**Rapport détaillé du projet "Implémentation d’un SOLVEUR 3-SAT"**
+<a href="Rapport.pdf" class="image fit"><img src="Page de garde.png"  width="50%" height="50%" alt="Rapport du projet 'Implémentation d’un SOLVEUR 3-SAT'"></a>
