@@ -21,6 +21,8 @@
 <br/>
 <br/>
 <br/>
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) **`Méthodes utilisées`**
+
 **`Rapport détaillé du projet "Implémentation d'un SOLVEUR 3-SAT"`**
 ***Cliquer sur l'image pour consulter le rapport :)***
 
