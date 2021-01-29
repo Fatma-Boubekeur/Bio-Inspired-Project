@@ -22,9 +22,12 @@
 <br/>
 <br/>
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) **`Méthodes utilisées`**
-- **Méthodes exactes (Recherche aveugle)**
+- **Méthodes exactes (recherche aveugle)**
   - **La recherche en largeur d’abord (ou BFS, pour Breadth First Search)**
   - **La recherche en profondeur d’abord (ou DFS, pour Depth-First Search)**
+- **Méthodes heuristiques (recherche informée )**
+  - **L'algorithme de recherche A***
+   
 
 **`Rapport détaillé du projet "Implémentation d'un SOLVEUR 3-SAT"`**
 ***Cliquer sur l'image pour consulter le rapport :)***
