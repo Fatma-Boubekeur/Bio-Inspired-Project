@@ -25,8 +25,8 @@
 - **Méthodes exactes (recherche aveugle)**
   - **La recherche en largeur d’abord (ou BFS, pour Breadth First Search)**
   - **La recherche en profondeur d’abord (ou DFS, pour Depth-First Search)**
-- **Méthodes heuristiques (recherche informée )**
-  - **L'algorithme de recherche A***
+- **Méthodes heuristiques (recherche informée)**
+  - **L'algorithme de recherche A*** ***(avec le nombre de clauses satisfaites comme heuristique)***
    
 
 **`Rapport détaillé du projet "Implémentation d'un SOLVEUR 3-SAT"`**
