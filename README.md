@@ -34,6 +34,10 @@
   - **Les algorithmes génétiques (GA, pour Genetic Algorithms)**
   - **L’algorithme de colonies de fourmis (ACS, pour Ant Colony System)**
   
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) **`But`**
+**L'objectif du projet est de constater l’explosion combinatoire des méthodes exactes et de s’initier aux méthodes heuristiques et métaheuristiques qui présentent des
+approches incontournables pour la résolution des problèmes complexes.**
+
 **`Rapport détaillé du projet "Implémentation d'un SOLVEUR 3-SAT"`**
 ***Cliquer sur l'image pour consulter le rapport :)***
 
