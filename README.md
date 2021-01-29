@@ -7,7 +7,6 @@
 
 **`Exemple d'un fichier CNF`**
 
-<img src="Fichier-CNF.png" width="40%" height="40%" align="left">
-
-<embed src="Projet TP.pdf" type="application/pdf">
+<img src="Fichier-CNF.png" width="40%" height="40%" align="left"> Le Fichier CNF de la figure correspond à la formule booléenne suivante : 
+(x69 ∨ ¬x63 ∨ ¬x22)
 
