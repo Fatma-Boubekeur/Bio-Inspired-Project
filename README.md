@@ -22,11 +22,14 @@
 <br/>
 <br/>
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) **`Méthodes utilisées`**
+
 - **Méthodes exactes (recherche aveugle)**
   - **La recherche en largeur d’abord (ou BFS, pour Breadth First Search)**
   - **La recherche en profondeur d’abord (ou DFS, pour Depth-First Search)**
+  
 - **Méthodes heuristiques (recherche informée)**
   - **L'algorithme de recherche A*** ***(avec le nombre de clauses satisfaites comme heuristique)***
+  
 - **Méthodes métaheuristiques bio-inspirées**
   - **Les algorithmes génétiques (GA, pour Genetic Algorithms)**
   - **L’algorithme de colonies de fourmis (ACS, pour Ant Colony System)**
