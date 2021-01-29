@@ -24,5 +24,5 @@
 **`Rapport détaillé du projet "Implémentation d'un SOLVEUR 3-SAT"`**
 ***Cliquer sur l'image pour consulter le rapport :)***
 
-<a href="Rapport.pdf" target="_blank"><img src="page_de_garde.png" align="center" title="Cliquer sur l'image pour consulter le rapport :)"></a>
+<a href="Rapport.pdf" target="_blank"><img src="page de garde.png" align="center" title="Cliquer sur l'image pour consulter le rapport :)"></a>
 
