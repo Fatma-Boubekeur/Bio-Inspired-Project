@@ -44,3 +44,10 @@ approches incontournables pour la résolution des problèmes complexes.**
 
 <a href="Rapport.pdf" target="_blank"><img src="page de garde.png" align="center" title="Cliquer sur l'image pour consulter le rapport :)"></a>
 
+**`Présentation PowerPoint du projet "Implémentation d'un SOLVEUR 3-SAT"`**
+***Cliquer sur l'image pour consulter la présentation :)***
+
+<a href="Rapport.pdf" target="_blank"><img src="page de garde présentation.PNG" align="center" title="Cliquer sur l'image pour consulter la présentation :)"></a>
+
+
+
